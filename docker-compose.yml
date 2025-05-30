@@ -1,0 +1,18 @@
+# NLP_Emotion_Tracker/docker-compose.yml
+# version: '3.8'
+
+services:
+  db:
+    image: postgres:13
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: nlp_emotion_tracker_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432" # Expose PostgreSQL port (optional for local access)
+    restart: always
+
+volumes:
+  pgdata:

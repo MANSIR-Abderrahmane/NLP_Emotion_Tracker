@@ -1,0 +1,11 @@
+Django>=4.2
+djangorestframework
+pandas
+numpy
+scikit-learn
+torch
+transformers
+notebook
+requests
+django-cors-headers
+psycopg2-binary
