@@ -2,7 +2,7 @@
 
 An end-to-end NLP-based emotion tracking system that scrapes text data from social platforms, analyzes it using machine learning, and presents results through a modern dashboard interface.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> Project Showcase Video <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> Project Showcase Video <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="25" height="25" />
 
 ## Features
 
@@ -10,10 +10,10 @@ An end-to-end NLP-based emotion tracking system that scrapes text data from soci
 
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td align="center">FontEnd</td>
-    <td align="center">BackEnd</td>
-    <td align="center">Natural Language Processing</td>
-    <td align="center">Data Analysis</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> FontEnd</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> BackEnd</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Natural Language Processing</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Analysis</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind" align="center"><br/>+<br/><img src="https://skillicons.dev/icons?i=ts" align="center"></td>
