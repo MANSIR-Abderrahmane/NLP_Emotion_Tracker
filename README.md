@@ -2,11 +2,11 @@
 
 An end-to-end NLP-based emotion tracking system that scrapes text data from social platforms, analyzes it using machine learning, and presents results through a modern dashboard interface.
 
-## 🎬 Project Showcase Video 📽️
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> Project Showcase Video <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" />
 
 ## Features
 
-## ⚙️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
 
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
@@ -32,7 +32,7 @@ An end-to-end NLP-based emotion tracking system that scrapes text data from soci
   </tr>
 </table>
 
-## Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Project Structure
 
 ```
 NLP_Emotion_Tracker/
