@@ -1,3 +1,5 @@
+<!-- I am trying to figure something out to make this app better but I will probably just leave it be it -->
+
 # NLP Emotion Tracker
 
 An end-to-end NLP-based emotion tracking system that scrapes text data from social platforms, analyzes it using machine learning, and presents results through a modern dashboard interface.
